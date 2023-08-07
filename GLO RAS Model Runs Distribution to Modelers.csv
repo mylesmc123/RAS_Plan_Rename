@@ -1,0 +1,33 @@
+﻿GLO RAS Events,Modeler,PlanID,U Flow File ID,Geometry
+BaseModel,,p01,u01,g01
+050yr_Atlas_14,Angshuman,p30,u30,g01
+050y_ Left_PD_Bivariate,Angshuman,p31,u31,g01
+050yr_MostLikely_Bivariate,Angshuman,p32,u32,g01
+050yr_Right_SD_Bivariate,Angshuman,p33,u33,g01
+010yr_Atlas_14,Yushi,p10,u10,g01
+010yr_Left_PD_Bivariate,Yushi,p11,u11,g01
+010yr_MostLikely_Bivariate,Yushi,p12,u12,g01
+010yr_Right_SD_Bivariate,Yushi,p13,u13,g01
+100yr_Atlas_14,Luis,p50,u50,g01
+100yr_Left_PD_Bivariate,Luis,p51,u51,g01
+100yr_MostLikely_Bivariate,Luis,p52,u52,g01
+100yr_Right_SD_Bivariate,Luis,p53,u53,g01
+500yr_Atlas_14,Luis,p70,u70,g01
+500yr_Left_PD_Bivariate,Luis,p71,u71,g01
+500yr_MostLikely_Bivariate,Luis,p72,u72,g01
+500yr_Right_SD_Bivariate,Luis,p73,u73,g01
+Harvey_AORC(no_wind),Luis,p90,u90,g01
+Ike_AORC(no_wind),Myles,p91,u91,g01
+Rita_AORC(no_wind),Yushi,p92,u92,g01
+Harvey_AORC(no_wind))_Epoch,Luis,p93,u93,g01
+Ike_AORC(no_wind)_Epoch,Myles,p94,u94,g01
+Rita_AORC(no_wind)_Epoch,Yushi,p95,u95,g01
+,,,,
+Model merging,Myles,,,
+,,,,
+Calibration Events to be run first.,,,,
+"Sensitivity Analysis of Calibration Parameters based on results, confidence, and variance",,,,
+"Based on Calibration results, may use varying parameter sets for the AEP's by matching with Calibration Event's associated Frequency Interval. For example, the 500yr_AEP may use the Harvey calibration parameters.",,,,
+"Calibration Parameters include Landuse_Landcover, Terrain, Calibration Regions, and Manning's N values",,,,
+"Once Calibration Parameters sets determined for each AEP, model will be merged to a single model and redistributed.",,,,
+"AEP model runs will occur, then be remerged to a single model.",,,,
